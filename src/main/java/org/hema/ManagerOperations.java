@@ -6,6 +6,10 @@ public class ManagerOperations {
         for (int i = 0; i <= 5; i++) {
             System.out.println("u r very beautiful");
         }
+        ProgramFile pf = new ProgramFile();
+        pf.display();
+
+
 
     }
 }
